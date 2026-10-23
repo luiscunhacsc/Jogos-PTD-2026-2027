@@ -1,0 +1,161 @@
+{
+  "app": "psicodigital",
+  "version": 1,
+  "exportedAt": "2026-10-23T11:44:14.340Z",
+  "records": {
+    "m1q1": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m1q2": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q3": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q4": {
+      "attempts": 3,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q1": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m2q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q1": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q6": {
+      "attempts": 1,
+      "xp": 0,
+      "mastered": false,
+      "first": false,
+      "last": false
+    },
+    "m3q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    }
+  }
+}
